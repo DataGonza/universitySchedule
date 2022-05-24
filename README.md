@@ -10,7 +10,7 @@ To use this program the user must digit all classes in different sheets in an ex
 The results are in an excel file with one sheet for each option. In the next image you can see a result:
 ![Output!](images/output.PNG "Output schedules")
 ## More information
-All details of the project are un detailedExplanation.pynb.  
+All details of the project are un detailedExplanation.ipynb.  
 ## Future development  
 This project will be updated with some new characteristics like those:  
 1) Add filters to schedules with restrictions defined by the user.
